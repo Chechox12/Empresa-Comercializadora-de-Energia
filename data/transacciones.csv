@@ -1,0 +1,6 @@
+Tipo de Transaccion,Nombre del Cliente/Proveedor,Cantidad Comprada ,Precio,Tipo de Energia
+venta,Cliente 1,500,150.5,eolica
+compra,Proveedor A,300,200.25,nuclear
+venta,Cliente 2,400,100.75,hidroelectrica
+compra,Proveedor B,700,300.6,eolica
+venta,Cliente 3,800,250.9,nuclear
